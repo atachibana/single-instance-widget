@@ -1,4 +1,5 @@
 # single-instance-widget
+[![Build Status](https://travis-ci.org/atachibana/single-instance-widget.svg?branch=master)](https://travis-ci.org/atachibana/single-instance-widget)
 
 Example code of WordPress Single Widget
 
