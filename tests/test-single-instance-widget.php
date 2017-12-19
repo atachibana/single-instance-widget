@@ -35,8 +35,8 @@ class SingleInstanceWidgetTest extends WP_UnitTestCase {
 	 * Just invoke update
 	 */
 	function test_update() {
-		$s = new Single_Instance_Widget();
-		$new_instance = array();
+		$s                     = new Single_Instance_Widget();
+		$new_instance          = array();
 		$new_instance['title'] = 'New Title';
 
 		$return_instance = $s->update( $new_instance, null );

@@ -28,7 +28,7 @@ class Single_Instance_Widget extends WP_Widget {
 			'description' => 'Example of Single Instance Widget',
 		);
 		$control_ops = array(
-			'width' => 400,
+			'width'  => 400,
 			'height' => 350,
 		);
 		parent::__construct(
