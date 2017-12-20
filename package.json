@@ -1,12 +1,20 @@
-
 {
   "name": "single-instance-widget",
   "version": "0.1.0",
+  "description": "Example code of WordPress Single Widget",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atachibana/single-instance-widget.git"
+  },
+  "author": "Akira Tachibana",
+  "bugs": {
+    "url": "https://github.com/atachibana/single-instance-widget/issues"
+  },
+  "homepage": "https://github.com/atachibana/single-instance-widget#readme",  
   "devDependencies": {
-    "grunt": "~0.4.5",
+    "grunt": "^0.4.5",
     "grunt-wp-i18n": "~0.5.0",
-    "grunt-wp-readme-to-markdown": "~1.0.0"
+    "grunt-wp-readme-to-markdown": "^1.0.0"
   }
 }
