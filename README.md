@@ -1,6 +1,6 @@
 # Single Instance Widget #
 [![Build Status](https://travis-ci.org/atachibana/single-instance-widget.svg?branch=master)](https://travis-ci.org/atachibana/single-instance-widget)
-A
+
 **Contributors:** atachibana  
 **Tags:** widget plugin sample codex  
 **Requires at least:** 4.9  
@@ -54,4 +54,4 @@ This example supports Widget screen of Administration Screen only.
 ## Changelog ##
 
 ### 1.0.0 - 17th December 2017
-* Initial###
+* Initial
